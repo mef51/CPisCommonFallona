@@ -1,0 +1,13 @@
+Because it's an interdisciplinary event I tried to simplify things
+
+* In the title I left out 'non-Zeeman' and chose 'Star forming regions' instead of 'interstellar medium'. 
+* Little to no math
+* focus the entire poster on our observations and then suggest they match up with the predictions in your 2014 paper
+* I picked the most dramatic maps from Hezareh 2013 to show pre and post correction of ARS
+
+References
+
+Girart, J. M., Rao, R., Marrone, D. P. 2006 Science, 313, 5788, 812-814
+Hezareh, T. J., Wiesemeyer, H., Houde, M., Gusdorf, A., Siringo, G. 2013 A&A, 558, A45
+Houde, M., Hezareh, T., Jones, S., & Rajabi, F. 2013 ApJ, 764, 24
+Houde, M. 2014 ApJ, 795, 27
